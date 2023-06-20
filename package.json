@@ -1,6 +1,6 @@
 {
+  "homepage ": "https://elmaranchuelo.github.io/elmaranchuelo.github.io",
   "name": "resume",
-  "homepage ": "http://elmaranchuelo.github.io/elmaranchuelo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
